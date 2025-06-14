@@ -23,7 +23,7 @@ The project includes integration tests and is ready for deployment using environ
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/lipezz/appointment_plat-backend.git
 cd platagendamento-backend
 ```
 
